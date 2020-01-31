@@ -90,15 +90,13 @@ public class DepartmentListController implements Initializable, DataChangeListen
 			
 			Pane pane = loader.load();
 			
-			Stage dialogStage = new Stage();
-			
 			DepartmentFormController controller = loader.getController();
-			
 			controller.setDepartment(obj);
 			controller.setDepartmentService(new DepartmentService());
 			controller.updateFormData();
 			controller.subscribeDataChangeList(this);
 			
+			Stage dialogStage = new Stage();
 			dialogStage.setTitle("Enter deparment data");
 			dialogStage.setScene(new Scene(pane));
 			dialogStage.setResizable(false);
