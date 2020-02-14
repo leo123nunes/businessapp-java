@@ -191,7 +191,7 @@ public class SellerFormController implements Initializable {
 			throw new IllegalStateException("Entity was null.");
 		}
 		txtId.setText(String.valueOf(entity.getId()));
-		txtName.setText(String.valueOf(entity.getName()));
+		txtName.setText(entity.getName());
 		txtEmail.setText(entity.getEmail());
 		Locale.setDefault(Locale.US);
 		baseSalary.setText(String.format("%.2f", entity.getBaseSalary()));
