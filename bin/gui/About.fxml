@@ -2,11 +2,11 @@
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<VBox prefHeight="321.0" prefWidth="446.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+<VBox prefHeight="321.0" prefWidth="446.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Label prefHeight="43.0" prefWidth="124.0" text="About">
          <font>
@@ -16,13 +16,10 @@
             <Insets bottom="10.0" left="20.0" right="10.0" top="10.0" />
          </padding>
       </Label>
-      <Label prefHeight="27.0" prefWidth="244.0" text="Javafx information.">
-         <padding>
-            <Insets left="20.0" right="10.0" top="10.0" />
-         </padding>
+      <TextArea editable="false" prefHeight="200.0" prefWidth="200.0" text="Um aplicativo simples para desktop que funciona para adicionar, deletar ou &#10;editar os vendedores e departamentos de uma empresa utilizando o JavaFX&#10; junto com o aplicativo Scene Builder para interface gráfica, e linguagem de&#10; banco de dados MySQL.&#10;&#10;&#10;&#10;A simple desktop application that works to add, delete or &#10;edit an organization's sellers and departments using JavaFX with the Scene&#10; Builder application for graphical interface, and MySQL database.">
          <font>
-            <Font size="17.0" />
+            <Font name="Arial" size="12.0" />
          </font>
-      </Label>
+      </TextArea>
    </children>
 </VBox>
