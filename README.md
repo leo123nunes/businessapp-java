@@ -4,17 +4,17 @@ contendo as imagens da aplicação quando finalizada em funcionamento.
 
 Informações adicionais
 
-Linguagem de programação e banco de dados
+Linguagem de programação e banco de dados:
 Java e MySQL.
 
-IDE
+IDE:
 Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0) Build id: 20180917-1800.
 
-Bibliotecas
+Bibliotecas:
 Java SE versão 10, JavaFX e MySQL Connector.
 
-Frameworks/banco de dados
+Frameworks/banco de dados:
 Scene Builder e MySQL Workbench 8.0 CE.
 
-Tempo total do projeto
+Tempo total do projeto:
 14 dias programando cerca de 2 horas por dia.
