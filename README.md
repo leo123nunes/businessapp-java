@@ -15,4 +15,4 @@ Java SE versão 10, JavaFX e MySQL Connector.
 Scene Builder e MySQL Workbench 8.0 CE.
 
 # Tempo total do projeto
-14 dias programando cerca de 2 horas por dia.
+14 dias.
