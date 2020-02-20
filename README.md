@@ -7,7 +7,7 @@ contendo as imagens da aplicação quando finalizada em funcionamento.
 Java e MySQL.
 
 # IDE
-Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0) Build id: 20180917-1800.
+Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0).
 
 # Bibliotecas
 Java SE versão 10, JavaFX e MySQL Connector.
