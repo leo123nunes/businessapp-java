@@ -1,5 +1,5 @@
-# Project1-BusinessApp
-Olá, o projeto a seguir é um aplicativo para desktop que funciona para adicionar, deletar ou editar os vendedores e departamentos de uma 
+# Java-BusinessApp
+O projeto a seguir é um aplicativo para desktop que funciona para adicionar, deletar ou editar os vendedores e departamentos de uma 
 empresa utilizando o JavaFX com o Scene Builder para interface gráfica, e linguagem de banco de dados MySQL. O projeto possui uma pasta 
 contendo as imagens da aplicação quando finalizada em funcionamento.
 
