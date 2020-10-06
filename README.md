@@ -1,8 +1,6 @@
 # Java-BusinessApp
 Aplicativo para desktop que funciona para adicionar, deletar ou editar os vendedores e departamentos de uma 
-empresa utilizando o JavaFX com o Scene Builder para interface gráfica, e linguagem de banco de dados MySQL. O projeto possui uma pasta 
-contendo as imagens da aplicação quando finalizada em funcionamento.
-
+empresa utilizando o JavaFX com o Scene Builder para interface gráfica, e linguagem de banco de dados MySQL.
 # Linguagem de programação e banco de dados
 Java e MySQL.
 
