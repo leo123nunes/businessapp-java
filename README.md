@@ -2,19 +2,19 @@
 Desktop application that works to add, delete or edit salespeople and departments in a
 company using JavaFX with Scene Builder for graphical interface, and MySQL database language.
 
-# Programming language and database
+## Code language and database
 Java and MySQL.
 
-# Libraries
+## Libraries
 Java SE versão 10, JavaFX e MySQL Connector.
 
-# Frameworks/database
+## Frameworks/database
 Scene Builder and MySQL Workbench 8.0 CE.
 
-# IDE
+## IDE
 Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0).
 
-# Screenshots
+## Screenshots
 ![about](https://user-images.githubusercontent.com/53942734/143716200-5a67d85b-d380-44f4-9567-5517ca621144.png)
 ![department_database](https://user-images.githubusercontent.com/53942734/143716217-f9df8200-033c-4507-af84-030be21a139c.png)
 ![department_registration](https://user-images.githubusercontent.com/53942734/143716226-8badb3cd-5939-455d-a0db-112a3a11302c.png)
@@ -26,7 +26,7 @@ Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0).
 ![seller_database](https://user-images.githubusercontent.com/53942734/143716265-a61fc54d-b7bd-4a7a-88ff-fe116f39823e.png)
 ![seller_registration](https://user-images.githubusercontent.com/53942734/143716271-20edc545-b5a5-41ee-9203-a2c08d5b88ac.png)
 
-# Author
+## Author
 
 👤 **Leonardo Nunes de Oliveira**
 
