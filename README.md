@@ -1,18 +1,18 @@
-# Java-BusinessApp
+# Business app
 Desktop application that works to add, delete or edit salespeople and departments in a
 company using JavaFX with Scene Builder for graphical interface, and MySQL database language.
 
 # Programming language and database
 Java and MySQL.
 
-# IDE
-Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0).
-
 # Libraries
 Java SE versão 10, JavaFX e MySQL Connector.
 
 # Frameworks/database
 Scene Builder and MySQL Workbench 8.0 CE.
+
+# IDE
+Eclipse Java EE IDE for Web Developers. Version: 2018-09 (4.9.0).
 
 # Screenshots
 ![about](https://user-images.githubusercontent.com/53942734/143716200-5a67d85b-d380-44f4-9567-5517ca621144.png)
@@ -25,4 +25,13 @@ Scene Builder and MySQL Workbench 8.0 CE.
 ![new_seller_empty](https://user-images.githubusercontent.com/53942734/143716259-cdcb6f1f-139f-4e97-b6a9-b4d3ac5f7228.png)
 ![seller_database](https://user-images.githubusercontent.com/53942734/143716265-a61fc54d-b7bd-4a7a-88ff-fe116f39823e.png)
 ![seller_registration](https://user-images.githubusercontent.com/53942734/143716271-20edc545-b5a5-41ee-9203-a2c08d5b88ac.png)
+
+# Author
+
+👤 **Leonardo Nunes de Oliveira**
+
+* Github: https://github.com/leo123nunes
+* LinkedIn: https://www.linkedin.com/in/leonunesoliveira/
+* Instagram: https://www.instagram.com/leo.nunesoliveira/
+* Facebook: https://www.facebook.com/leonardonunes.oliveira.1/
 
